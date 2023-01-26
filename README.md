@@ -9,11 +9,11 @@ Swift, SwiftUI, Firebase Realtime Database, Firebase Authentication, Firebase Cl
 # Screenshots:
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/112910934/214775515-e83795cd-4f89-4111-a97a-80e8b5606847.png" width="250" alt="Screenshot of the Home Screen" />
+  <img src="https://user-images.githubusercontent.com/112910934/214775515-e83795cd-4f89-4111-a97a-80e8b5606847.png" width="200" alt="Screenshot of the Home Screen" />
   <img height="" hspace="30"/>
-  <img src="https://user-images.githubusercontent.com/112910934/214775522-7fb20670-6d7b-4d11-bc6b-950644853dd3.png" width="250" alt="Screenshot of the Pantry Screen" />
+  <img src="https://user-images.githubusercontent.com/112910934/214775522-7fb20670-6d7b-4d11-bc6b-950644853dd3.png" width="200" alt="Screenshot of the Pantry Screen" />
   <img height="" hspace="30"/>
-  <img src="https://user-images.githubusercontent.com/112910934/214775449-dcb36d46-951a-4fb6-8d09-9d7bff5c2e1e.png" width="250" alt="Screenshot of the Edit Item Screen" />
+  <img src="https://user-images.githubusercontent.com/112910934/214775449-dcb36d46-951a-4fb6-8d09-9d7bff5c2e1e.png" width="200" alt="Screenshot of the Edit Item Screen" />
 </p>
 
 # Key Features
